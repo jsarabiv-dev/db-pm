@@ -1,0 +1,9 @@
+INSERT INTO `pyme_markets`.`category_product` (`CatProd_Name`, `CatProd_Icon_Url`, `CatProd_Search_Url`) VALUES ('Comida Rapida', '../../assets/icons-category/comida-rapida', '/comida-rapida');
+INSERT INTO `pyme_markets`.`category_product` (`CatProd_Name`, `CatProd_Icon_Url`, `CatProd_Search_Url`) VALUES ('Verano Mujer', '../../assets/icons-category/verano-mujer', '/verano-mujer');
+INSERT INTO `pyme_markets`.`category_product` (`CatProd_Name`, `CatProd_Icon_Url`, `CatProd_Search_Url`) VALUES ('Verano Hombre', '../../assets/icons-category/verano-hombre', '/verano-hombre');
+INSERT INTO `pyme_markets`.`category_product` (`CatProd_Name`, `CatProd_Icon_Url`, `CatProd_Search_Url`) VALUES ('Outdor', '../../assets/icons-category/outdoor', '/outdoor');
+INSERT INTO `pyme_markets`.`category_product` (`CatProd_Name`, `CatProd_Icon_Url`, `CatProd_Search_Url`) VALUES ('Cafe', '../../assets/icons-category/cafe', '/cafe');
+INSERT INTO `pyme_markets`.`category_product` (`CatProd_Name`, `CatProd_Icon_Url`, `CatProd_Search_Url`) VALUES ('Hoteleria', '../../assets/icons-category/hoteleria', '/hoteleria');
+INSERT INTO `pyme_markets`.`category_product` (`CatProd_Name`, `CatProd_Icon_Url`, `CatProd_Search_Url`) VALUES ('Joyeria', '../../assets/icons-category/joyeria', '/joyeria');
+INSERT INTO `pyme_markets`.`category_product` (`CatProd_Name`, `CatProd_Icon_Url`, `CatProd_Search_Url`) VALUES ('Alcohol', '../../assets/icons-category/alcohol', '/alcohol');
+INSERT INTO `pyme_markets`.`category_product` (`CatProd_Name`, `CatProd_Icon_Url`, `CatProd_Search_Url`) VALUES ('Disfraces', '../../assets/icons-category/disfraces', '/disfraces');
